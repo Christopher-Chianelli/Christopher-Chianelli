@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Christopher-Chianelli/Christopher-Chianelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Optimization goes agentic: Solve any scheduling problem with AI
+
+What if solving your toughest scheduling problem started with a simple conversation? Forget months of modeling and endless spreadsheets. Describe your problem in plain language, and let an AI agent take it from there.
+
+Online webinar on October 20, 4:30 PM CEST. [Register here](https://timefold.ai/events/optimization-goes-agentic-solve-any-scheduling-problem-with-ai?utm_source=employee_advocacy&utm_medium=referral&utm_campaign=agentic_webinar_oct26&utm_content=christopher_james_chianelli).
